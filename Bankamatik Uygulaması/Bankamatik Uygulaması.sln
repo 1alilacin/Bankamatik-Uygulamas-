@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bankamatik Uygulaması", "Bankamatik Uygulaması\Bankamatik Uygulaması.pyproj", "{BC18D685-1D87-457F-A900-F2037CC35B0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC18D685-1D87-457F-A900-F2037CC35B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC18D685-1D87-457F-A900-F2037CC35B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98D711B7-588A-49BC-A649-B89747B10888}
+	EndGlobalSection
+EndGlobal
